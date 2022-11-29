@@ -14,3 +14,4 @@ def calculate_bmi(height,weight):
     print(status)
 
 calculate_bmi(weight=90,height=1.73)
+calculate_bmi(weight=33,height=33)
